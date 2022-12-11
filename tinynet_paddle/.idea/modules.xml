@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:/默认浏览器下载/PaddleClas-release-2.5/.idea/PaddleClas-release-2.5.iml" filepath="F:/默认浏览器下载/PaddleClas-release-2.5/.idea/PaddleClas-release-2.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tinynet_paddle.iml" filepath="$PROJECT_DIR$/.idea/tinynet_paddle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tinynet_pytorch/.idea/tinynet_pytorch.iml" filepath="$PROJECT_DIR$/../tinynet_pytorch/.idea/tinynet_pytorch.iml" />
+    </modules>
+  </component>
+</project>
